@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Gatsby and I'm open to learn ANY framework/language
 - 👯 I’m looking for opportunity to learn and contribute
-- 🥅 2022 Goals: Gain professional experience
+- 🥅 2022 Goal: Gain professional experience
 
 ### Connect with me:
 

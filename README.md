@@ -4,7 +4,7 @@
 
 ## I'm a front-end web developer
 
-- 🌱 I’m currently learning NextJS and I'm open to learn ANY framework/language
+- 🌱 I’m currently learning Gatsby and excited to learn other technologies
 - 👯 I’m looking for a job opportunity (willing to relocate)
 - 🥅 2022 Goal: Gain professional experience  
 

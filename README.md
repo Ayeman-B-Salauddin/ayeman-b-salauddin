@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Gatsby and excited to learn other technologies
 - ✍️ I’m looking for a job opportunity (willing to relocate)
 - 🥅 2022 Goal: Gain professional experience  
-
+   
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

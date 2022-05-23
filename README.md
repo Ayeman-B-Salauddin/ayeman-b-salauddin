@@ -1,4 +1,4 @@
-![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQEPCYamMHZ3VA/profile-displaybackgroundimage-shrink_350_1400/0/1643175401827?e=1648684800&v=beta&t=hnqmU0fxa02LM-1G_WN6SrfMV1fzfYc047ZM5KHfXgs)
+![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQEPCYamMHZ3VA/profile-displaybackgroundimage-shrink_350_1400/0/1643175401827?e=1658966400&v=beta&t=OIvyuTFy__3oWBJG_HxEWz4GnPiKcsmyCUVpCO9WcUk)
 
 ### Hi there, I'm [Ayeman][website] 👋   
 

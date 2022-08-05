@@ -12,7 +12,6 @@
 
 [<img align="left" alt="Portfolio" src="https://img.icons8.com/bubbles/48/000000/domain.png"/>][website]
 [<img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
-[//]: <> ([<img align="left" alt="Resume" src="https://img.icons8.com/color/48/000000/resume.png"/>])
 
 <br />
  
@@ -22,7 +21,7 @@
 
 <br />
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<br /><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeSript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />

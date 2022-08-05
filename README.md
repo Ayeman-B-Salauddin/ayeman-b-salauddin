@@ -10,9 +10,6 @@
    
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="Portfolio" src="https://img.icons8.com/bubbles/48/000000/domain.png"/>][website]
 [<img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
 [<img align="left" alt="Resume" src="https://img.icons8.com/color/48/000000/resume.png"/>]
@@ -22,6 +19,7 @@
 ### Languages and Tools:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeman-b-salauddin"/>
+
 <br />
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

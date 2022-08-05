@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Portfolio" src="https://img.icons8.com/bubbles/48/000000/domain.png"/>][website]
 [<img align="left" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
-
+<br />
 <br />
  
 ### Languages and Tools:

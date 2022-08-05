@@ -1,6 +1,6 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQEPCYamMHZ3VA/profile-displaybackgroundimage-shrink_350_1400/0/1643175401827?e=1665014400&v=beta&t=YhnbPnBd9W0b6BqHc_mz4ePisiS-KYRbw9qN_znGLNQ)
 
-### Hi there, I'm [Ayeman][website] 👋   
+### Hey, I'm [Ayeman][website] 👋   
 
 ## I'm a Front End Developer  
   

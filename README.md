@@ -1,10 +1,9 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C4D16AQEPCYamMHZ3VA/profile-displaybackgroundimage-shrink_350_1400/0/1643175401827?e=1665014400&v=beta&t=YhnbPnBd9W0b6BqHc_mz4ePisiS-KYRbw9qN_znGLNQ)
 
-### Hey, I'm [Ayeman][website] 👋   
+### Hey, I'm [Ayeman][website] a Software Developer skilled in React, TypeScript and GraphQL   
 
-## I'm a Front End Developer  
-  
-- 🌱 Currently learning TypeScript and excited to learn other technologies
+
+- 🌱 Currently learning Golang and excited to learn other technologies
 - ✍️ Looking for a job opportunity (willing to relocate)
 - 🥅 2022 Goal: Gain professional experience  
    

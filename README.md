@@ -3,7 +3,7 @@
 ### Hey, I'm [Ayeman][website], a software developer skilled in React, GraphQL and Typescript.
 <br />
 
-- 🌱 Currently learning Golang and excited to learn other technologies
+- 🌱 Currently learning Supabase and excited to learn other technologies
 - ✍️ Looking for a job opportunity (willing to relocate)
 - 🥅 2022 Goal: Gain professional experience  
    

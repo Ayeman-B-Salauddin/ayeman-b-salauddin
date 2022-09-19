@@ -30,5 +30,5 @@
 
 ---
 
-[website]: https://ayeman-b-salauddin.vercel.app/
+[website]: https://www.ayeman.info/
 [linkedin]: https://www.linkedin.com/in/ayeman-bin-salauddin-0ab071204/
